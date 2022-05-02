@@ -13,7 +13,7 @@ Questions I need to answer :
 
 What I (think) I need to do next :
 - More reading/watching on maximum likelihood in machine learning context
-- Read paper about DQN algorithm
+- Read paper about DQN algorithm : https://arxiv.org/pdf/1312.5602.pdf
 - Read paper about TRPO algorithm
 - Part with Density estimation with learned representations?
 
