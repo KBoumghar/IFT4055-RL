@@ -10,6 +10,7 @@ Questions I need to answer :
 - Estimate of state marginal (cannot seem to find reference for that)
 - How / how fast can we find the distribution that fits our p_{\theta_t}(s)
 - Maximum likelihood estimation : OK. Maximum likelihood state density estimation process???
+- We can't assume independence of states like what I've seen. What is used for Maximum likelihood?
 
 What I (think) I need to do next :
 - More reading/watching on maximum likelihood in machine learning context
